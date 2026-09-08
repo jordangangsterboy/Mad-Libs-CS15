@@ -1,7 +1,0 @@
-random_dude = input("random_dude\n")
-short = input("short\n")
-walk = input("Verb ending in -ing\n")
-name = input("Student name\n")
-number = input("Number\n")
-plural_noun = input("Plural noun\n")
-adjective_2 = input("Another adjective\n")
